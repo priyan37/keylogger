@@ -12,8 +12,8 @@ This project is a **Keylogger Detection Tool** for Linux. It scans `.deb` packag
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/keylogger-scanner.git
-cd keylogger-scanner
+git clone https://github.com/priyan37/keylogger.git
+cd keylogger
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
